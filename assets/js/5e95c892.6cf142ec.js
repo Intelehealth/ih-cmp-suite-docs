@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktsi_dpdp_cms_portal=self.webpackChunktsi_dpdp_cms_portal||[]).push([["1668"],{86569(s,e,r){r.r(e),r.d(e,{default:()=>l});var a=r(74848);r(96540);var p=r(34164),t=r(34308),c=r(88287),d=r(22831),u=r(58983);function l(s){return(0,a.jsx)(t.e3,{className:(0,p.A)(c.G.wrapper.docsPages),children:(0,a.jsx)(u.A,{children:(0,d.v)(s.route.routes)})})}}}]);
